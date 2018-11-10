@@ -3,7 +3,7 @@
 PF the documentation at:  
 https://guides.github.com/features/mastering-markdown/
 
-##### or, at Markdown-Cheatsheet.pdf :point-up:
+##### or, at Markdown-Cheatsheet.pdf :point_up:
 
 # emoji-cheat-sheet
 
