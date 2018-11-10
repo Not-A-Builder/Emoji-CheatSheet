@@ -1,3 +1,8 @@
+# Markdown cheat-sheet
+
+PF the documentation at:  
+https://guides.github.com/features/mastering-markdown/
+
 # emoji-cheat-sheet
 
 [![build](https://travis-ci.org/ikatyang/emoji-cheat-sheet.svg?branch=master)](https://travis-ci.org/ikatyang/emoji-cheat-sheet)
